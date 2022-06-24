@@ -2,5 +2,5 @@
 
 Link to the deployed website: https://kfire08.github.io/xenonstack-assignment/
 
-Correct Login id: akash.11801431@lpu.in
+Correct Login id: akash.11801431@lpu.in\n
                   password: placed
