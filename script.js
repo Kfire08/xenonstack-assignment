@@ -29,5 +29,14 @@ function handlecontact() {
   document.location.href = "index.html";
 }
 function handlelogin() {
-  document.location.href = "index.html";
+  if (
+    document.getElementById("email").value == "akash.11801431@lpu.in" &&
+    document.getElementById("password").value == "placed"
+  ) {
+    document.location.href = "index.html";
+  } else {
+    alert("Incorrect Email or Password");
+    document.getElementById("email").value = "";
+    document.getElementById("password").value = "";
+  }
 }
