@@ -1,5 +1,7 @@
 # xenonstack-assignment
-
+NOTE: THIS PROJECT IS COMPLETELY FUNCTIONAL BUT NOT COMPLETE</BR></BR>  LINK TO COMPLETE PROJECT POST DEADLINE WITH HEROKU DEPLOYED LINK : https://github.com/Kfire08/xenonstack-complete-assignment
+</br>
+</br>
 Link to the deployed website: https://kfire08.github.io/xenonstack-assignment/
 
 Correct Login id: akash.11801431@lpu.in</br>
